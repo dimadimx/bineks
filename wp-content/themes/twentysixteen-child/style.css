@@ -1,0 +1,12 @@
+/*
+Theme Name:     Twenty Sixteen Child
+Template:       twentysixteen
+Version:        1.0
+*/
+
+@import url("../twentysixteen/style.css");
+
+.entry-content, .entry-footer {
+    float: none!important;
+    width: 100% !important;
+}
